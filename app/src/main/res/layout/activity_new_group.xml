@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/dark_white"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enter_group_id"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/theme_color" />
+
+    <EditText
+        android:id="@+id/etNewGroupName"
+        style="@style/view_admin_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/account_input"
+        android:lines="1"
+        android:singleLine="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/select_device"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/theme_color" />
+
+    <ListView
+        android:id="@+id/deviceList"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+</LinearLayout>

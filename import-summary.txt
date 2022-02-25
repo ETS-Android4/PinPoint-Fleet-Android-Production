@@ -1,0 +1,227 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+/Users/Parth/Desktop/N4N/Solution 2018/PinPointFleet/LIVE CODE/PinPoint_Fleet_GPS
+                                 -                       -                       
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* AndroidManifest.xml
+* ic_launcher-web.png
+* lint.xml
+* proguard-project.txt
+* res/
+* res/.DS_Store
+* res/color/
+* res/color/radio_colors.xml
+* res/drawable-hdpi/
+* res/drawable-hdpi/arw_down.png
+* res/drawable-hdpi/arw_lt.png
+* res/drawable-hdpi/ic_launcher.png
+* res/drawable-hdpi/pin30_blue_h0.png
+* res/drawable-hdpi/pin30_blue_h1.png
+* res/drawable-hdpi/pin30_blue_h2.png
+* res/drawable-hdpi/pin30_blue_h3.png
+* res/drawable-hdpi/pin30_blue_h4.png
+* res/drawable-hdpi/pin30_blue_h5.png
+* res/drawable-hdpi/pin30_blue_h6.png
+* res/drawable-hdpi/pin30_blue_h7.png
+* res/drawable-hdpi/pin30_green_h0.png
+* res/drawable-hdpi/pin30_green_h1.png
+* res/drawable-hdpi/pin30_green_h2.png
+* res/drawable-hdpi/pin30_green_h3.png
+* res/drawable-hdpi/pin30_green_h4.png
+* res/drawable-hdpi/pin30_green_h5.png
+* res/drawable-hdpi/pin30_green_h6.png
+* res/drawable-hdpi/pin30_green_h7.png
+* res/drawable-hdpi/pin30_red.png
+* res/drawable-hdpi/pin30_yellow_h0.png
+* res/drawable-hdpi/pin30_yellow_h1.png
+* res/drawable-hdpi/pin30_yellow_h2.png
+* res/drawable-hdpi/pin30_yellow_h3.png
+* res/drawable-hdpi/pin30_yellow_h4.png
+* res/drawable-hdpi/pin30_yellow_h5.png
+* res/drawable-hdpi/pin30_yellow_h6.png
+* res/drawable-hdpi/pin30_yellow_h7.png
+* res/drawable-hdpi/segment_grey.9.png
+* res/drawable-hdpi/segment_grey_focus.9.png
+* res/drawable-hdpi/segment_grey_press.9.png
+* res/drawable-hdpi/segment_radio_grey_left.9.png
+* res/drawable-hdpi/segment_radio_grey_left_focus.9.png
+* res/drawable-hdpi/segment_radio_grey_left_press.9.png
+* res/drawable-hdpi/segment_radio_grey_middle.9.png
+* res/drawable-hdpi/segment_radio_grey_middle_focus.9.png
+* res/drawable-hdpi/segment_radio_grey_middle_press.9.png
+* res/drawable-hdpi/segment_radio_grey_right.9.png
+* res/drawable-hdpi/segment_radio_grey_right_focus.9.png
+* res/drawable-hdpi/segment_radio_grey_right_press.9.png
+* res/drawable-hdpi/segment_radio_white_left.9.png
+* res/drawable-hdpi/segment_radio_white_left_focus.9.png
+* res/drawable-hdpi/segment_radio_white_left_press.9.png
+* res/drawable-hdpi/segment_radio_white_middle.9.png
+* res/drawable-hdpi/segment_radio_white_middle_focus.9.png
+* res/drawable-hdpi/segment_radio_white_middle_press.9.png
+* res/drawable-hdpi/segment_radio_white_right.9.png
+* res/drawable-hdpi/segment_radio_white_right_focus.9.png
+* res/drawable-hdpi/segment_radio_white_right_press.9.png
+* res/drawable-hdpi/segment_white.9.png
+* res/drawable-hdpi/segment_white_focus.9.png
+* res/drawable-mdpi/
+* res/drawable-mdpi/ic_launcher.png
+* res/drawable-xhdpi/
+* res/drawable-xhdpi/ic_launcher.png
+* res/drawable-xxhdpi/
+* res/drawable-xxhdpi/ic_launcher.png
+* res/drawable-xxxhdpi/
+* res/drawable-xxxhdpi/ic_launcher.png
+* res/drawable/
+* res/drawable/.DS_Store
+* res/drawable/account_input.png
+* res/drawable/administration.png
+* res/drawable/btn_dropdown.xml
+* res/drawable/btn_dropdown_normal.9.png
+* res/drawable/btn_dropdown_pressed.9.png
+* res/drawable/button_drawable.xml
+* res/drawable/car_pin.png
+* res/drawable/car_pin_green.png
+* res/drawable/car_pin_green_old.png
+* res/drawable/car_pin_orange.png
+* res/drawable/car_pin_red.png
+* res/drawable/car_pin_yellow.png
+* res/drawable/car_pin_yellow_old.png
+* res/drawable/counter_bg.xml
+* res/drawable/delete.png
+* res/drawable/device_list.png
+* res/drawable/device_list_old.png
+* res/drawable/edittext_drawable.xml
+* res/drawable/file.png
+* res/drawable/folder.png
+* res/drawable/gradient_bg.xml
+* res/drawable/gradient_bg_hover.xml
+* res/drawable/green.9.png
+* res/drawable/green_one.png
+* res/drawable/grp_map_icon.png
+* res/drawable/ic_drawer.png
+* res/drawable/list_item_bg_normal.xml
+* res/drawable/list_item_bg_pressed.xml
+* res/drawable/list_main.xml
+* res/drawable/list_selector.xml
+* res/drawable/login.png
+* res/drawable/login_drawable.xml
+* res/drawable/logout.png
+* res/drawable/map_settings.png
+* res/drawable/map_settings_old.png
+* res/drawable/mapping.png
+* res/drawable/password.png
+* res/drawable/plus.png
+* res/drawable/red_one.png
+* res/drawable/refresh.png
+* res/drawable/report.png
+* res/drawable/rounded_corner.xml
+* res/drawable/save.png
+* res/drawable/segment_button.xml
+* res/drawable/segment_radio_left.xml
+* res/drawable/segment_radio_middle.xml
+* res/drawable/segment_radio_right.xml
+* res/drawable/submenu_icon.png
+* res/drawable/user.png
+* res/drawable/yellow_one.png
+* res/layout/
+* res/layout/activity_edit_group.xml
+* res/layout/activity_login.xml
+* res/layout/activity_map_settings.xml
+* res/layout/activity_new_group.xml
+* res/layout/activity_new_user.xml
+* res/layout/activity_new_vehicle.xml
+* res/layout/activity_slider_home.xml
+* res/layout/activity_view_user_admin_details.xml
+* res/layout/activity_view_vehicle_details.xml
+* res/layout/custom_vehicle_list_layout.xml
+* res/layout/devicelist_single_custom_row.xml
+* res/layout/drawer_list_item.xml
+* res/layout/file_picker_empty_view.xml
+* res/layout/fragment_account_admin.xml
+* res/layout/fragment_mapping.xml
+* res/layout/fragment_roles_add.xml
+* res/layout/fragment_sms_command.xml
+* res/layout/fragment_vehicle_admin.xml
+* res/layout/image_choose_list_item.xml
+* res/layout/image_chooser_list.xml
+* res/layout/info_window_layout.xml
+* res/layout/list_row_data.xml
+* res/layout/list_row_group.xml
+* res/layout/roles_list_footer.xml
+* res/layout/roles_list_header.xml
+* res/layout/row_first.xml
+* res/layout/row_second.xml
+* res/layout/row_third.xml
+* res/menu/
+* res/menu/menu.xml
+* res/menu/new_user.xml
+* res/menu/view_user_details.xml
+* res/values-sw600dp/
+* res/values-sw600dp/dimens.xml
+* res/values-sw720dp-land/
+* res/values-sw720dp-land/dimens.xml
+* res/values-v11/
+* res/values-v11/styles.xml
+* res/values-v14/
+* res/values-v14/styles.xml
+* res/values-w820dp/
+* res/values-w820dp/dimens.xml
+* res/values/
+* res/values/arrays.xml
+* res/values/attrs.xml
+* res/values/colors.xml
+* res/values/dimens.xml
+* res/values/id.xml
+* res/values/strings.xml
+* res/values/styles.xml
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:26.0.0-alpha1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* src/ => app/src/main/java/
+* src/.DS_Store => app/src/main/resources/.DS_Store
+* src/com/.DS_Store => app/src/main/resources/com/.DS_Store
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

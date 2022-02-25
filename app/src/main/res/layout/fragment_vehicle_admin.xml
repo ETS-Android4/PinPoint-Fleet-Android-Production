@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/dark_white"
+    android:orientation="vertical" >
+
+    <ImageButton
+        android:id="@+id/imageViewAddVehicle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:padding="5dp"
+        android:background="@color/theme_color"
+        android:src="@drawable/plus" />
+
+    <ListView
+        android:id="@+id/listVehicleDetails"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="4dp"
+        android:padding="5dp"
+        android:layout_margin="5dp" >
+    </ListView>
+
+</LinearLayout>

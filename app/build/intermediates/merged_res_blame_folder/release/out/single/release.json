@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_green_h5.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_green_h5.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_grey_middle.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_grey_middle.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_car_pin.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/car_pin.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_activity_new_group.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/activity_new_group.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_fragment_roles_add.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/fragment_roles_add.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_activity_view_user_admin_details.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/activity_view_user_admin_details.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/menu_view_user_details.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/menu/view_user_details.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_fragment_account_admin.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/fragment_account_admin.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_file_picker_empty_view.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/file_picker_empty_view.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_yellow_h7.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_yellow_h7.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_account_input.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/account_input.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_ic_drawer.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_counter_bg.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/counter_bg.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_segment_button.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/segment_button.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_yellow_h0.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_yellow_h0.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_activity_edit_group.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/activity_edit_group.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_green_h6.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_green_h6.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_mapping.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/mapping.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_grey_middle_press.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_grey_middle_press.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_white_left.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_white_left.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_white.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_white.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_segment_radio_left.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/segment_radio_left.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_roles_list_header.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/roles_list_header.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_white_right_focus.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_white_right_focus.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_save.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/save.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_row_first.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/row_first.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_gradient_bg.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/gradient_bg.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_grey_right_focus.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_grey_right_focus.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_car_pin_orange.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/car_pin_orange.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_list_selector.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/list_selector.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_yellow_h1.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_yellow_h1.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_white_focus.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_white_focus.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_grey_press.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_grey_press.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_blue_h1.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_blue_h1.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_activity_slider_home.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/activity_slider_home.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_white_middle_press.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_white_middle_press.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_row_second.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/row_second.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_fragment_vehicle_admin.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/fragment_vehicle_admin.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_green_h7.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_green_h7.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_search.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/search.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_red.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_red.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_car_pin_yellow_old.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/car_pin_yellow_old.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_login_drawable.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/login_drawable.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_submenu_icon.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/submenu_icon.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_white_middle.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_white_middle.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_arw_down.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/arw_down.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_rounded_corner.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_list_main.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/list_main.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_fragment_sms_command.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/fragment_sms_command.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_blue_h7.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_blue_h7.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_blue_h2.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_blue_h2.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_yellow_h5.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_yellow_h5.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_green_h4.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_green_h4.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_roles_list_footer.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/roles_list_footer.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_folder.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/folder.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_yellow_h2.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_yellow_h2.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_grey_left.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_grey_left.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_list_item_bg_normal.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/list_item_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_list_row_data.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/list_row_data.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_list_row_group.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/list_row_group.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_file.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/file.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_btn_dropdown_normal.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/btn_dropdown_normal.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_car_pin_green_old.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/car_pin_green_old.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_grp_map_icon.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/grp_map_icon.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_button_drawable.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/button_drawable.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_fragment_mapping.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/fragment_mapping.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_image_choose_list_item.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/image_choose_list_item.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_yellow_h3.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_yellow_h3.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_green_h1.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_green_h1.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_green_h2.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_green_h2.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_red_one.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/red_one.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_activity_new_user.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/activity_new_user.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_blue_h5.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_blue_h5.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_activity_map_settings.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/activity_map_settings.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_password.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/password.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_grey_left_focus.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_grey_left_focus.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_activity_view_vehicle_details.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/activity_view_vehicle_details.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_grey_right.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_grey_right.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_devicelist_single_custom_row.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/devicelist_single_custom_row.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_drawer_list_item.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_logout.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/logout.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_refresh.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/refresh.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_grey.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_grey.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/menu_new_user.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/menu/new_user.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_yellow_one.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/yellow_one.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_segment_radio_middle.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/segment_radio_middle.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_yellow_h4.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_yellow_h4.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_arw_lt.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/arw_lt.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/color_radio_colors.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/color/radio_colors.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_blue_h4.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_blue_h4.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_white_middle_focus.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_white_middle_focus.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_list_item_bg_pressed.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_map_settings.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/map_settings.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_car_pin_green.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/car_pin_green.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_image_chooser_list.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/image_chooser_list.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/menu_menu.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_custom_vehicle_list_layout.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/custom_vehicle_list_layout.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_green_h0.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_green_h0.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_green_h3.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_green_h3.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_car_pin_yellow.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/car_pin_yellow.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_white_left_press.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_white_left_press.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_login.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/login.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_white_left_focus.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_white_left_focus.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_segment_radio_right.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/segment_radio_right.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_edittext_drawable.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/edittext_drawable.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_device_list_old.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/device_list_old.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_grey_right_press.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_grey_right_press.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_blue_h3.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_blue_h3.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_green_one.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/green_one.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_row_third.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/row_third.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_gradient_bg_hover.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/gradient_bg_hover.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_white_right_press.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_white_right_press.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_grey_left_press.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_grey_left_press.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_green.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/green.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_activity_login.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_report.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/report.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_btn_dropdown.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/btn_dropdown.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_white_right.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_white_right.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_blue_h0.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_blue_h0.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_user.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/user.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_plus.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/plus.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_administration.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/administration.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_activity_new_vehicle.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/activity_new_vehicle.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_device_list.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/device_list.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_grey_focus.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_grey_focus.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/layout_info_window_layout.xml.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/layout/info_window_layout.xml"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_map_settings_old.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/map_settings_old.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_segment_radio_grey_middle_focus.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/segment_radio_grey_middle_focus.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_blue_h6.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_blue_h6.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_delete.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/delete.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_btn_dropdown_pressed.9.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/btn_dropdown_pressed.9.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable_car_pin_red.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable/car_pin_red.png"
+    },
+    {
+        "merged": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/res/merged/release/drawable-hdpi_pin30_yellow_h6.png.flat",
+        "source": "/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/src/main/res/drawable-hdpi/pin30_yellow_h6.png"
+    }
+]

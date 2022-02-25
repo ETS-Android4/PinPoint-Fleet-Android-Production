@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Map View</item>
+        <item>Send Command</item>
+        <!-- Admin -->
+        <item>Administration</item>
+        <item>Users</item>
+        <item>Groups</item>
+        <item>Account</item>
+        <item>Vehicles</item>
+        <item>Roles</item>
+        <item>Logout</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+
+        <!-- Mapping -->
+        <item>@drawable/submenu_icon</item>
+        <item>@drawable/submenu_icon</item>
+        <!-- Admin -->
+        <item>@drawable/administration</item>
+        <item>@drawable/submenu_icon</item>
+        <item>@drawable/submenu_icon</item>
+        <item>@drawable/submenu_icon</item>
+        <item>@drawable/submenu_icon</item>
+        <item>@drawable/submenu_icon</item>
+        <item>@drawable/logout</item>
+    </array>
+
+    <string-array name="time_zone">
+        <item>US/Hawaii</item>
+        <item>US/Alaska</item>
+        <item>US/Pacific</item>
+        <item>US/Arizona</item>
+        <item>US/Mountain</item>
+        <item>US/Central</item>
+        <item>US/Eastern</item>
+        <item>Canada/Pacific</item>
+        <item>Canada/Mountain</item>
+        <item>Canada/Central</item>
+        <item>Canada/Eastern</item>
+        <item>Canada/Atlantic</item>
+        <item>Mexico/BajaNorte</item>
+        <item>Mexico/BajaSur</item>
+        <item>Mexico/General</item>
+        <item>Europe/Athens</item>
+        <item>Europe/Berlin</item>
+        <item>Europe/Dublin</item>
+        <item>Europe/Helsinki</item>
+        <item>Europe/Kiev</item>
+        <item>Europe/Lisbon</item>
+        <item>Europe/London</item>
+        <item>Europe/Madrid</item>
+        <item>Europe/Moscow</item>
+        <item>Europe/Oslo</item>
+        <item>Europe/Paris</item>
+        <item>Europe/Rome</item>
+        <item>Europe/Stockholm</item>
+        <item>Europe/Zurich</item>
+        <item>GMT</item>
+        <item>GMT+00:00</item>
+        <item>GMT+01:00</item>
+        <item>GMT+02:00</item>
+        <item>GMT+03:00</item>
+        <item>GMT+04:00</item>
+        <item>GMT+05:00</item>
+        <item>GMT+05:30</item>
+        <item>GMT+06:00</item>
+        <item>GMT+07:00</item>
+        <item>GMT+08:00</item>
+        <item>GMT+09:00</item>
+        <item>GMT+10:00</item>
+        <item>GMT+11:00</item>
+        <item>GMT+12:00</item>
+        <item>GMT+13:00</item>
+        <item>GMT+14:00</item>
+        <item>GMT-01:00</item>
+        <item>GMT-02:00</item>
+        <item>GMT-03:00</item>
+        <item>GMT-04:00</item>
+        <item>GMT-05:00</item>
+        <item>GMT-06:00</item>
+        <item>GMT-07:00</item>
+        <item>GMT-08:00</item>
+        <item>GMT-09:00</item>
+        <item>GMT-10:00</item>
+        <item>GMT-11:00</item>
+        <item>GMT-12:00</item>
+    </string-array>
+    <string-array name="is_active">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="set_speed">
+        <item>30</item>
+        <item>45</item>
+        <item>70</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+    </string-array>
+    <string-array name="userRole">
+        <item>Admin Role</item>
+        <item>Standard User</item>
+    </string-array>
+    <string-array name="userRole_values">
+        <item>226826</item>
+        <item>1980618</item>
+    </string-array>
+    <string-array name="temp_unit">
+        <item>C</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="pressure_unit">
+        <item>kpa</item>
+        <item>bar</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="fuel_efficiency">
+        <item>km/l</item>
+        <item>mpg</item>
+    </string-array>
+    <string-array name="volume_unit">
+        <item>l</item>
+        <item>gal</item>
+    </string-array>
+    <string-array name="distance_unit">
+        <item>km</item>
+        <item>miles</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>km/h</item>
+        <item>mph</item>
+    </string-array>
+    <string-array name="vehicle_type">
+        <item>Teltonika FM5300</item>
+        <item>SmartOne</item>
+        <item>Xirgo XT-4700</item>
+        <item>Xirgo XT-4500</item>
+        <item>Xirgo XT-2000</item>
+        <item>Xirgo XT-4000</item>
+        <item>Xirgo XT-2150</item>
+    </string-array>
+    <string-array name="vehicle_type_value">
+        <item>-10</item>
+        <item>-9</item>
+        <item>-8</item>
+        <item>-7</item>
+        <item>-6</item>
+        <item>-5</item>
+        <item>-4</item>
+    </string-array>
+
+    <string-array name="set_output_port">
+        <item>short with GSM override</item>
+        <item>Open</item>
+        <item>Short</item>
+    </string-array>
+    
+    <string-array name="response_via">
+        <item>Via TCP/UDP</item>
+        <item>Via SMS</item>
+    </string-array>
+</resources>

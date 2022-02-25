@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="top|center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/theme_color"
+        android:padding="5dp"
+        android:text="@string/headet_title_device_list"
+        android:textColor="@color/white"
+        android:textSize="@dimen/edittext_size"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spDeviceMap"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/btn_dropdown"
+        android:entries="@array/nav_drawer_items" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/theme_color"
+        android:padding="5dp"
+        android:text="@string/from"
+        android:textColor="@color/white"
+        android:textSize="@dimen/edittext_size"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="15dp"
+        android:weightSum="2" >
+
+        <TextView
+            android:id="@+id/tvFromDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/rounded_corner"
+            android:lines="1"
+            android:padding="5dp"
+            android:hint="@string/date"
+            android:textColor="@color/theme_color"
+            android:textSize="@dimen/edittext_size" />
+
+        <TextView
+            android:id="@+id/tvFromTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/rounded_corner"
+            android:lines="1"
+            android:padding="5dp"
+            android:hint="@string/time"
+            android:textColor="@color/theme_color"
+            android:textSize="@dimen/edittext_size" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/theme_color"
+        android:padding="5dp"
+        android:text="@string/to_dt"
+        android:textColor="@color/white"
+        android:textSize="@dimen/edittext_size"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="15dp"
+        android:weightSum="2" >
+
+        <TextView
+            android:id="@+id/tvToDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/rounded_corner"
+            android:lines="1"
+            android:padding="5dp"
+            android:hint="@string/date"
+            android:textColor="@color/theme_color"
+            android:textSize="@dimen/edittext_size" />
+
+        <TextView
+            android:id="@+id/tvToTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/rounded_corner"
+            android:lines="1"
+            android:padding="5dp"
+            android:hint="@string/time"
+            android:textColor="@color/theme_color"
+            android:textSize="@dimen/edittext_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:orientation="horizontal"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp" >
+
+        <Button
+            android:id="@+id/btnLast24Hrs"
+            style="@style/track_history_btn_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:text="@string/lbl_last24_hr" />
+
+        <Button
+            android:id="@+id/btnLast3Days"
+            style="@style/track_history_btn_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:text="@string/lbl_last3Days" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp" >
+
+        <Button
+            android:id="@+id/dialogButtonCancel"
+            style="@style/btn_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:layout_weight="1"
+            android:text="@string/cancel" />
+
+        <Button
+            android:id="@+id/dialogButtonUpdate"
+            style="@style/btn_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"
+            android:layout_weight="1"
+            android:text="@string/update" />
+    </LinearLayout>
+
+</LinearLayout>

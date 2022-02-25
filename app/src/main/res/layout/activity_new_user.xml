@@ -1,0 +1,255 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <!-- UserName -->
+
+        <TextView
+            style="@style/speed_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/username" />
+
+        <EditText
+            android:id="@+id/etViewUsername"
+            style="@style/view_admin_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="1"
+            android:singleLine="true"
+            android:background="@drawable/account_input" />
+
+        <!-- Password -->
+
+        <TextView
+            style="@style/speed_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/password" />
+
+        <EditText
+            android:id="@+id/etViewPassword"
+            style="@style/view_admin_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="1"
+            android:singleLine="true"
+            android:background="@drawable/account_input"
+            android:inputType="textPassword" />
+
+        <!-- Company Name -->
+
+        <TextView
+            style="@style/speed_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/company_name" />
+
+        <EditText
+            android:id="@+id/etViewCompanyName"
+            style="@style/view_admin_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="1"
+            android:singleLine="true"
+            android:background="@drawable/account_input" />
+
+        <!-- Website -->
+
+        <TextView
+            style="@style/speed_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/website" />
+
+        <EditText
+            android:id="@+id/etViewWebsite"
+            style="@style/view_admin_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="1"
+            android:singleLine="true"
+            android:background="@drawable/account_input"
+            android:inputType="textEmailAddress" />
+
+        <!-- Contact Person -->
+
+        <TextView
+            style="@style/speed_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cnt_person" />
+
+        <EditText
+            android:id="@+id/etViewContactPerson"
+            style="@style/view_admin_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="1"
+            android:singleLine="true"
+            android:background="@drawable/account_input" />
+
+        <!-- Contact Phone -->
+
+        <TextView
+            style="@style/speed_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cnt_phone" />
+
+        <EditText
+            android:id="@+id/etViewContactPhone"
+            style="@style/view_admin_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="1"
+            android:digits="01234567890+-"
+            android:singleLine="true"
+            android:background="@drawable/account_input"
+            android:inputType="phone" />
+
+        <!-- skype Account -->
+
+        <TextView
+            style="@style/speed_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/skype_acc" />
+
+        <EditText
+            android:id="@+id/etViewSkypeAcc"
+            style="@style/view_admin_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="1"
+            android:singleLine="true"
+            android:background="@drawable/account_input" />
+
+        <!-- Time Zone -->
+
+        <TextView
+            style="@style/speed_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/time_zone" />
+
+        <Spinner
+            android:id="@+id/spTimeZone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="35dp"
+            android:background="@drawable/btn_dropdown"
+            android:entries="@array/time_zone" />
+
+        <!-- User Role -->
+
+        <TextView
+            style="@style/speed_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/user_role" />
+
+        <Spinner
+            android:id="@+id/spUserRole"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="35dp"
+            android:background="@drawable/btn_dropdown"
+            android:entries="@array/userRole" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:background="@color/theme_color"
+            android:text="@string/account_address"
+            android:textColor="@color/white"
+            android:textSize="@dimen/edittext_size" />
+
+        <!-- Address -->
+
+        <TextView
+            style="@style/speed_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/address" />
+
+        <EditText
+            android:id="@+id/etViewAddress"
+            style="@style/view_admin_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="3"
+            android:background="@drawable/account_input" />
+
+        <!-- Zip / Postal Code -->
+
+        <TextView
+            style="@style/speed_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/zim_postal_code" />
+
+        <EditText
+            android:id="@+id/etViewZipPostalCode"
+            style="@style/view_admin_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:lines="1"
+            android:singleLine="true"
+            android:background="@drawable/account_input" />
+
+        <!-- City -->
+
+        <TextView
+            style="@style/speed_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/city" />
+
+        <EditText
+            android:id="@+id/etViewCity"
+            style="@style/view_admin_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="1"
+            android:singleLine="true"
+            android:background="@drawable/account_input" />
+
+        <!-- Country -->
+
+        <TextView
+            style="@style/speed_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/country" />
+
+         <EditText
+            android:id="@+id/etViewCountry"
+            style="@style/view_admin_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="1"
+            android:singleLine="true"
+            android:background="@drawable/account_input" />
+         
+        <!-- <Spinner
+            android:id="@+id/spCountry"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="35dp"
+            android:background="@drawable/btn_dropdown"
+            android:entries="@array/time_zone" /> -->
+    </LinearLayout>
+
+</ScrollView>

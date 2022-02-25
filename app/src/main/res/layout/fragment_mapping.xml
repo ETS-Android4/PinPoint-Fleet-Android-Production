@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <fragment
+            android:id="@+id/map"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            class="com.google.android.gms.maps.SupportMapFragment" />
+
+        <Button
+            android:id="@+id/btnDeviceList"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="7dp"
+            android:layout_marginTop="7dp"
+            android:background="@drawable/device_list"
+            android:text="" />
+
+        <Button
+            android:id="@+id/btnSettings"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/btnDeviceList"
+            android:layout_marginRight="7dp"
+            android:background="@drawable/map_settings" />
+
+        <Button
+            android:id="@+id/btnSearchViaDeviceID"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/btnSettings"
+            android:layout_marginRight="7dp"
+            android:background="@drawable/search" />
+
+        <Button
+            android:id="@+id/btnRefresh"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/btnSearchViaDeviceID"
+            android:layout_marginRight="7dp"
+            android:background="@drawable/refresh" />
+
+        <slider.SegmentedRadioGroup
+            android:id="@+id/segment_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="5dip"
+            android:checkedButton="@+id/button_one"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@id/button_one"
+                android:button="@null"
+                android:gravity="center"
+                android:minHeight="33dip"
+                android:minWidth="40dip"
+                android:text="@string/map_normal"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/radio_colors" />
+
+            <RadioButton
+                android:id="@+id/button_two"
+                android:button="@null"
+                android:gravity="center"
+                android:minHeight="33dip"
+                android:minWidth="40dip"
+                android:text="@string/map_satellite"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/radio_colors" />
+
+            <RadioButton
+                android:id="@+id/button_three"
+                android:button="@null"
+                android:gravity="center"
+                android:minHeight="33dip"
+                android:minWidth="40dip"
+                android:text="@string/map_hybrid"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/radio_colors" />
+        </slider.SegmentedRadioGroup>
+    </RelativeLayout>
+
+    <!-- For MappingFragmentNEW2.java -->
+
+    <ScrollView
+        android:id="@+id/scrollViewVehicleList"
+        android:layout_width="300dp"
+        android:layout_height="fill_parent"
+        android:layout_gravity="end"
+        android:background="#fff"
+        android:indicatorRight="440dp" >
+
+        <LinearLayout
+            android:id="@+id/linear_listview"
+            android:layout_width="300dp"
+            android:layout_height="fill_parent"
+            android:layout_gravity="end"
+            android:background="#fff"
+            android:indicatorRight="440dp"
+            android:orientation="vertical" />
+    </ScrollView>
+    <!-- For MappingFragmentNEW.java -->
+    <!--
+         <ExpandableListView
+        android:id="@+id/left_drawer"
+        android:layout_width="300dp"
+        android:layout_height="fill_parent"
+        android:layout_gravity="end"
+        android:background="#fff"
+        android:choiceMode="singleChoice"
+        android:divider="@android:color/black"
+        android:dividerHeight="1dp"
+        android:indicatorRight="440dp" />
+
+
+    -->
+
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,7 @@
+#Thu Feb 17 10:15:46 IST 2022
+base.1=/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.1=classes.dex
+base.0=/Users/parthpandya/Documents/N4N - Till Feb19/N4N - Copy/PinPointFleet/PinPoint_Fleet_GPS/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

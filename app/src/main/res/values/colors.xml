@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+   <!--  <color name="background">#016299</color> -->
+    
+    <color name="white">#ffffff</color>
+    <color name="dark_white">#E6E6E6</color>
+    <color name="theme_color">#016299</color>
+    <color name="grey">#424242</color>
+    <color name="darker_theme_color">#007975</color>
+    <!--Slide Menu  -->
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#fff</color>
+    <color name="list_background_pressed">#00aca4</color><!--#992416 // -->
+    <color name="list_divider">#fff</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+</resources>

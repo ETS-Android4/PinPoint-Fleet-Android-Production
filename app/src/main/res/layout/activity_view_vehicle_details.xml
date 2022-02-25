@@ -1,0 +1,343 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <Button
+            android:id="@+id/viewBtnEdit"
+            style="@style/btn_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:layout_weight="1"
+            android:text="@string/edit" />
+
+        <Button
+            android:id="@+id/viewBtnDelete"
+            style="@style/btn_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"
+            android:layout_weight="1"
+            android:text="@string/delete" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <!-- Vehicle ID -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/vehicle_id" />
+
+            <EditText
+                android:id="@+id/etViewVehicleID"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- Device ID -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/device_id" />
+
+            <EditText
+                android:id="@+id/etViewDevID"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- Device Description -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dev_desc" />
+
+            <EditText
+                android:id="@+id/etViewDevDesc"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- Unique ID -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/unique_id" />
+
+            <EditText
+                android:id="@+id/etViewUniqueID"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- Active -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/is_active" />
+
+            <Spinner
+                android:id="@+id/spIsActive"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="35dp"
+                android:background="@drawable/btn_dropdown"
+                android:entries="@array/is_active" />
+
+            <!-- Equipt Type -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/equipment_type" />
+
+            <EditText
+                android:id="@+id/etViewEquiptType"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- SimPhNo -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sim_phn_no" />
+
+            <EditText
+                android:id="@+id/etViewSimPhNo"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:inputType="phone"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- IMEI Number -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/imei_number" />
+
+            <EditText
+                android:id="@+id/etViewimeiNumber"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:inputType="number"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- Fuel Capacity -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fuel_capacity" />
+
+            <EditText
+                android:id="@+id/etViewFuelCapacity"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:inputType="numberDecimal"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- Serial Number -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/serial_number" />
+
+            <EditText
+                android:id="@+id/etViewSerialNumber"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:inputType="number"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- engineHourOffset -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/engine_hour_offset" />
+
+            <EditText
+                android:id="@+id/etViewEngineHourOffset"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:inputType="numberDecimal"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- Odometer Offset KM -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/odomenter_offset_km" />
+
+            <EditText
+                android:id="@+id/etViewOdometerOffsetKm"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:inputType="numberDecimal"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- license plate -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/licence_plate" />
+
+            <EditText
+                android:id="@+id/etViewLicensePlate"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- Creation Date -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/creation_date" />
+
+            <EditText
+                android:id="@+id/etViewCreationDate"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- sms Email -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/send_email" />
+
+            <EditText
+                android:id="@+id/etViewSmsEmail"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- driverId -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/driver_id" />
+
+            <EditText
+                android:id="@+id/etViewDriverID"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:lines="1"
+                android:singleLine="true" />
+
+            <!-- shortName -->
+
+            <TextView
+                style="@style/speed_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/short_name" />
+
+            <EditText
+                android:id="@+id/etViewShortName"
+                style="@style/view_admin_edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/account_input"
+                android:lines="1"
+                android:singleLine="true" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

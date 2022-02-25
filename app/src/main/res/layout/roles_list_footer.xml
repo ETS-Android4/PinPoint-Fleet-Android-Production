@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:orientation="vertical" >
+    
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:background="@color/theme_color"
+                android:text="@string/geofence_restriction"
+                android:textColor="@color/white"
+                android:textSize="@dimen/edittext_size" />
+
+            <CheckBox
+                android:id="@+id/chkCreateGeofence"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/create_geofences"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:background="@color/theme_color"
+                android:text="@string/tracks_restrictions"
+                android:textColor="@color/white"
+                android:textSize="@dimen/edittext_size" />
+
+            <CheckBox
+                android:id="@+id/chkViewTracks"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/view_tracks"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:background="@color/theme_color"
+                android:text="@string/commands_restrictions"
+                android:textColor="@color/white"
+                android:textSize="@dimen/edittext_size" />
+
+            <CheckBox
+                android:id="@+id/chkCommandsRestrictions"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/send_commands"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:background="@color/theme_color"
+                android:text="@string/notifiers_restrictions"
+                android:textColor="@color/white"
+                android:textSize="@dimen/edittext_size" />
+
+            <CheckBox
+                android:id="@+id/chkSos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/sos"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkConnectionLoss"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/connection_loss"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkGpsLoss"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/gps_loss"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkOverspeed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/overspeed"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkMileage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/mileage"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkIdeals"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/ideals"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkGeofences"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/geofence"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkIOAct"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/io_act_de_act"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkLowPower"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/low_power"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkPowerCut"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/power_cut"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkRestoreGPs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/restore_gps"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkWakeUp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/wake_up"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkShakeAlarm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/shake_alarm"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkHardAcceleration"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/hard_acceleration"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkHarshBreak"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/harsh_break"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkMove"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/move"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:background="@color/theme_color"
+                android:text="@string/reports_restrictions"
+                android:textColor="@color/white"
+                android:textSize="@dimen/edittext_size" />
+
+            <CheckBox
+                android:id="@+id/chkTrips"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/trips"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkGeozones"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/geozones"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkIgnitionDetail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/ignition_detail"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkInputDetail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/input_detail"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkDistance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/distance"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkTemperature"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/temperature"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkPeriodicService"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/periodic_service"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkGpsRawData"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/gps_raw_data"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:id="@+id/chkReportOverspeed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:text="@string/overspeed"
+                android:textColor="@color/theme_color"
+                android:textSize="18dp" />
+
+</LinearLayout>
